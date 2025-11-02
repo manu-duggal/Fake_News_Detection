@@ -1,2 +1,2 @@
 # Fake_News_Detection
-A Semantic Classification model to extract the semantic relations from the text to detect Fake news Articles.
+The objective is to develop a Semantic Classification model. Word2Vec method will be used to extract the semantic relations from the text and develop a basic understanding of how to train supervised models to categorise text based on its meaning, rather than just syntax. We will explore how this technique is used in situations where understanding textual meaning plays a critical role in making accurate and efficient decisions.
